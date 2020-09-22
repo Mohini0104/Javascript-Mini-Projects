@@ -1,2 +1,2 @@
 # Vanilla-JavaScript
-This repo is made  for mini project made with vanilla javaScript
+This repo is made  for projects made with Vanilla JavaScript made without any external framework.
